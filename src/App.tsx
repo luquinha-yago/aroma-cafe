@@ -1,5 +1,6 @@
 import { BrowserRouter, Routes, Route } from "react-router-dom";
 import { useState } from "react";
+import { HashRouter } from "react-router-dom";
 
 import Header from "./Header";
 import Home from "./pages/Home";
@@ -119,7 +120,7 @@ function removerCarrinho(id:number){
 
   return (
 
-    <BrowserRouter>
+    <HashRouter>
 
       <Header quantidade={carrinho.length}/>
 
@@ -188,7 +189,7 @@ function removerCarrinho(id:number){
 </footer>
       </div>
 
-    </BrowserRouter>
+    </HashRouter>
 
   );
 
