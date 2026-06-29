@@ -1,0 +1,66 @@
+[
+  {
+    "id": 1,
+    "nome": "Espresso",
+    "preco": 8.5,
+    "categoria": "Café",
+    "descricao": "Café espresso tradicional.",
+    "imagem": "https://images.unsplash.com/photo-1510707577719-ae7c14805e3a?w=600"
+  },
+  {
+    "id": 2,
+    "nome": "Cappuccino",
+    "preco": 15,
+    "categoria": "Café",
+    "descricao": "Cappuccino cremoso.",
+    "imagem": "https://images.unsplash.com/photo-1572442388796-11668a67e53d?w=600"
+  },
+  {
+    "id": 3,
+    "nome": "Latte",
+    "preco": 14,
+    "categoria": "Café",
+    "descricao": "Latte com leite vaporizado.",
+    "imagem": "https://images.unsplash.com/photo-1495474472287-4d71bcdd2085?w=600"
+  },
+  {
+    "id": 4,
+    "nome": "Brownie",
+    "preco": 12,
+    "categoria": "Doce",
+    "descricao": "Brownie artesanal.",
+    "imagem": "https://images.unsplash.com/photo-1606313564200-e75d5e30476c?w=600"
+  },
+  {
+    "id": 5,
+    "nome": "Cheesecake",
+    "preco": 18,
+    "categoria": "Doce",
+    "descricao": "Cheesecake de frutas vermelhas.",
+    "imagem": "https://images.unsplash.com/photo-1533134242443-d4fd215305ad?w=600"
+  },
+  {
+    "id": 6,
+    "nome": "Croissant",
+    "preco": 11,
+    "categoria": "Salgado",
+    "descricao": "Croissant amanteigado.",
+    "imagem": "https://images.pexels.com/photos/2135/food-france-morning-breakfast.jpg?auto=compress&cs=tinysrgb&w=600"
+  },
+  {
+    "id": 7,
+    "nome": "Pão de Queijo",
+    "preco": 7,
+    "categoria": "Salgado",
+    "descricao": "Tradicional mineiro.",
+    "imagem": "https://images.pexels.com/photos/6605214/pexels-photo-6605214.jpeg?auto=compress&cs=tinysrgb&w=600"
+  },
+  {
+    "id": 8,
+    "nome": "Mocha",
+    "preco": 16,
+    "categoria": "Café",
+    "descricao": "Café com chocolate.",
+    "imagem": "https://images.unsplash.com/photo-1509042239860-f550ce710b93?w=600"
+  }
+]
